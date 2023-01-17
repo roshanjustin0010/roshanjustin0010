@@ -1,5 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roshan
-==============================================================================================================================Flutter Developer-----------------A Tech Enthusiast who helps and consult others to choose right tech decision also trying different domains in coding where i go through confusion for choosing a perfect language and comes to a conclusion that there is not a perfect one to be mastered in any language . I had knowledge of OOP's (c++) and finally now i am learning Flutter (Android and iOS) development.* 🌍  I'm based in India* 🖥️  See my portfolio at [Roshan](http://www/rj.com)* ✉️  You can contact me at [roshanjustin0010@gmail.com](mailto:roshanjustin0010@gmail.com)* 🚀  I'm currently working on [Flutter](http://https://flutter.dev/)* 🧠  I'm learning Flutter* 🤝  I'm open to collaborating on interested projects* ⚡  Ask me about Linux ,Gadgets,OS,Softwares,Apple
+==============================================================================================================================
+
+Flutter Developer
+-----------------
+
+A Tech Enthusiast who helps and consult others to choose right tech decision also trying different domains in coding where i go through confusion for choosing a perfect language and comes to a conclusion that there is not a perfect one to be mastered in any language . I had knowledge of OOP's (c++) and finally now i am learning Flutter (Android and iOS) development.
+
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [roshan](http://www.rj.tech)
+*   ✉️  You can contact me at [roshanjustin0010@gmail.com](mailto:roshanjustin0010@gmail.com)
+*   🚀  I'm currently working on [Flutter](http://flutter.dev/)
+*   🧠  I'm learning Flutter
+*   🤝  I'm open to collaborating on interested projects
+*   ⚡  Ask me about Linux ,Gadgets,OS,Softwares,Apple
 
 ### Skills
 
